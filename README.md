@@ -1,4 +1,4 @@
-### Tarea 3.7
+# Tarea 3.7
 ![cap1](/capturas/cap1.png)
 ![cap2](/capturas/cap2.png)
 ![cap3](/capturas/cap3.png)
